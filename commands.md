@@ -233,3 +233,8 @@
 ```sh
     df -Th /
 ```
+
+#### List all packages:
+```sh
+    pacman -Qe
+```
