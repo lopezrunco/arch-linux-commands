@@ -11,3 +11,7 @@ This repository contains a collection of cheat sheets for various categories of 
 5. User and Group Management
 6. Compression and Archiving
 7. Miscellaneous (Many other commands or sequences of commands that I've used for specific tasks don’t fit into a specific category or have multiple uses.)
+
+# Custom Commands
+
+In addition, the `custom-commands` directory contains a collection of personalized scripts designed to enhance productivity and automate repetitive tasks.
