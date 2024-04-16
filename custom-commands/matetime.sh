@@ -1,9 +1,13 @@
+# Display system info
+neofetch
+
+# Alert script
 work_alert() {
-    zenity --info --title="Work time" --text="Time to code!" --no-markup --width=250 --timeout=0
+    /usr/bin/kdialog --msgbox "Time to code!" --title "Work time"
 }
 
 mate_alert() {
-    zenity --info --title="Mate time" --text="Take a rest!" --no-markup --width=250 --timeout=0
+    /usr/bin/kdialog --msgbox "Take a rest!" --title "Mate time"
 }
 
 # Main loop
